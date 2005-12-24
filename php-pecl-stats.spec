@@ -7,7 +7,7 @@ Summary:	%{_modname} - extension with routines for statistical computation
 Summary(pl):	%{_modname} - rozszerzenie z funkcjami do wykonywania obliczeñ statystycznych
 Name:		php-pecl-%{_modname}
 Version:	1.0.0
-Release:	1
+Release:	2
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
