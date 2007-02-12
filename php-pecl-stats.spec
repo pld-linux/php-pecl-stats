@@ -1,7 +1,7 @@
 %define		_modname	stats
 %define		_status		stable
 Summary:	%{_modname} - extension with routines for statistical computation
-Summary(pl):	%{_modname} - rozszerzenie z funkcjami do wykonywania obliczeñ statystycznych
+Summary(pl.UTF-8):   %{_modname} - rozszerzenie z funkcjami do wykonywania obliczeÅ„ statystycznych
 Name:		php-pecl-%{_modname}
 Version:	1.0.2
 Release:	2
@@ -23,9 +23,9 @@ harmonic_mean() and others.
 
 In PECL status of this extension is: %{_status}.
 
-%description -l pl
-To rozszerzenie dostarcza wiele ró¿nych funkcji do wykonywania
-obliczeñ statystycznych, takich jak stats_absolute_deviation(),
+%description -l pl.UTF-8
+To rozszerzenie dostarcza wiele rÃ³Å¼nych funkcji do wykonywania
+obliczeÅ„ statystycznych, takich jak stats_absolute_deviation(),
 stats_covariance(), harmonic_mean() i inne.
 
 To rozszerzenie ma w PECL status: %{_status}.
