@@ -5,7 +5,7 @@ Summary(pl.UTF-8):	%{_modname} - rozszerzenie z funkcjami do wykonywania oblicze
 Name:		php-pecl-%{_modname}
 Version:	1.0.2
 Release:	2
-License:	PHP 2.02
+License:	PHP 3.01
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
 # Source0-md5:	96f105be1e76fbc5dca424057066e4d8
